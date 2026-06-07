@@ -1,0 +1,9 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Dev-only (never part of the static site)
+node_modules/
+.vercel
